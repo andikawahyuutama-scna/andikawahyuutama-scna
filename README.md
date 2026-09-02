@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Andika Wahyu Utama
 
 ### 💻 Aspiring Backend Developer | 🎓 RPL Student |🤖 AI Learner | 🌐 IoT Learner | ⚙️ CAD Learner
+---
 
 I'm a vocational high school student majoring in **Software & Game Development**
 with a passion for building software and exploring emerging technologies.
